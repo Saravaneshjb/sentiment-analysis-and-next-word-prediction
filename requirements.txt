@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+tensorflow
+scikit-learn
+nltk
+gensim
+contractions
+
+# Additional packages for specific functionality
+Pillow
+regex
+
+# Optional, for specific model formats
+h5py
